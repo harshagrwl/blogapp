@@ -1,1 +1,1 @@
-web: gunicorn samm.wsgi:application --log-file -
+web: gunicorn sam.wsgi:application --log-file -
