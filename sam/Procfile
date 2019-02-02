@@ -1,0 +1,1 @@
+web: gunicorn Checkmate2019.wsgi:application --log-file -
